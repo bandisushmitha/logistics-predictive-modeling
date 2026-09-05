@@ -1,0 +1,2 @@
+total_records,total_columns,missing_values,duplicate_records,date_converted,negative_values_found,total_outliers_detected
+600,11,0,0,True,0,11
